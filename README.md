@@ -1,5 +1,4 @@
 # pandas-challenge
-Pandas Challenge Homework
 Data from the hit game "Heroes of Pymoli" is analyzed and translated into data frames
 
 Heroes of Pymoli Data Observations:
